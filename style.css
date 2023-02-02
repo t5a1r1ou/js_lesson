@@ -1,0 +1,11 @@
+.slidev-code {
+  font-size: 1rem !important;
+  line-height: 1.7 !important;
+  text-align: left !important;
+  background-color: #efefef !important;
+  padding: 0 3rem 2rem !important;
+}
+
+p:has(> img) {
+  opacity: 1 !important;
+}
